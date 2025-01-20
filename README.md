@@ -26,11 +26,11 @@ npx playwright test
 
 ## Below list of Test Scenarios are Automated
 
-SC_1. Validate response status and time.
-SC_2. Verify non-empty `id` and `segment_type`.
-SC_3. Validate `primary` field in `title_list`.
-SC_4. Ensure only one track has `now_playing` set to true.
-SC_5. Validate the `Date` header in the response.
+1. Validate response status and time.
+2. Verify non-empty `id` and `segment_type`.
+3. Validate `primary` field in `title_list`.
+4. Ensure only one track has `now_playing` set to true.
+5. Validate the `Date` header in the response.
 
 ## Additional Notes
 
